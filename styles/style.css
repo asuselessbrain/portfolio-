@@ -612,4 +612,10 @@ footer div ul {
     main {
         margin: 0px 20px;
     }
+    .social-media-icons {
+        justify-content: center;
+    }
+    .banner-btn {
+        justify-content: center;
+    }
 }
