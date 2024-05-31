@@ -241,7 +241,10 @@ a:hover {
     gap: 40px;
     color: white;
     padding: 100px 40px;
-    background-color: #df929e93;
+    /* background-color: #df929e93;
+     */
+
+     background-image: linear-gradient(45deg, rgb(30, 30, 30), rgb(53, 38, 38), rgb(52, 44, 34));
     border-radius: 5px;
 }
 
